@@ -258,7 +258,7 @@ The resulting customer segments can support more focused marketing campaigns, lo
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Natarajan Surya**
 
 - GitHub: https://github.com/YOUR_USERNAME
 - Project: Customer Segmentation Analysis Using K-Means Clustering
