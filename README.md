@@ -1,4 +1,4 @@
-# OIBSIP-DataAnalystics-L2-Customer-Segmentation-Analysis-
+# OIBSIP-DataAnalystics-Task2-Customer-Segmentation-Analysis-
 # 🛍️ Customer Segmentation Analysis Using K-Means Clustering
 
 ## 📌 Project Overview
